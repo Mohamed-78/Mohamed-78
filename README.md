@@ -1,16 +1,16 @@
-### Hi there 👋
+# Bienvenue sur mon profil GITHUB ! 👋
 
-<!--
-**Mohamed-78/Mohamed-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Qui suis-je ?
+Je suis Irié Mohamed développeur Fullstack/Mobile j'ai 4 ans d'expérience.
 
-Here are some ideas to get you started:
+## 🚀 Technologies utilisées :
+- **Backend :** Python, Django Rest Framework, Laravel
+- **Frontend :** ReactJS, Angular
+- **Mobile :** React Native, Ionic
+- **UI :** Tailwind CSS, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🤝 Contactez-moi :
+- LinkedIn : https://urlz.fr/jQ2S
+- Email : dieudonneirie7@gmail.com
+
 - ⚡ Fun fact: ...
--->
