@@ -9,10 +9,6 @@ Je suis Irié Mohamed développeur Fullstack/Mobile j'ai 4 ans d'expérience.
 - **Mobile :** React Native, Ionic
 - **UI :** Tailwind CSS, Bootstrap
 
-## 📦🛠 PACKAGES
-### 1. [react-native-card-element](https://github.com/Mohamed-78?tab=packages)
-A custom React Native "Cards" component, offering simple integration and flexibility for mobile projects.
-
 ## 📊 Langages les plus utilisés sur GitHub :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-78&layout=compact)
 
