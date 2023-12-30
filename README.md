@@ -19,11 +19,14 @@ Je suis Irié Mohamed développeur Fullstack/Mobile j'ai 4 ans d'expérience.
 
 ## Statistiques Globales
 
+# Mes Packages
+
 [![Downloads](https://pepy.tech/badge/rn-card-element)](https://pepy.tech/project/rn-card-element)
 [![Downloads](https://pepy.tech/badge/react-native-card-media)](https://pepy.tech/project/react-native-card-media)
 [![Downloads](https://pepy.tech/badge/react-native-item-list)](https://pepy.tech/project/react-native-item-list)
 
-**Nombre total de téléchargements:** [![Downloads](https://pepy.tech/badge/rn-card-element)](https://pepy.tech/project/rn-card-element) + [![Downloads](https://pepy.tech/badge/react-native-card-media)](https://pepy.tech/project/react-native-card-media) + [![Downloads](https://pepy.tech/badge/react-native-item-list)](https://pepy.tech/project/react-native-item-list)
+**Nombre total de téléchargements:** [![Downloads](https://pepy.tech/badge/pypi)](https://pepy.tech/project/rn-card-element+react-native-card-media+react-native-item-list)
+
 
 ## 🔥 Série de contributions GitHub :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-78&theme=dark)
