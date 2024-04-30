@@ -4,10 +4,10 @@
 Je suis Irié Mohamed développeur Fullstack/Mobile j'ai 4 ans d'expérience.
 
 ## 🚀 Technologies utilisées :
-- **Backend :** Python, Django Rest Framework, Laravel
-- **Frontend :** ReactJS, Angular
-- **Mobile :** React Native, Ionic
-- **UI :** Tailwind CSS, Bootstrap
+- **Backend :** Python, PHP, Django Rest Framework, Laravel
+- **Frontend :** ReactJS, Angular, Tailwind CSS, Bootstrap
+- **Mobile :** Flutter, React Native, Ionic
+- **UI/UX :** Figma, Adobe Fireworks
 
 ## 📊 Langages les plus utilisés sur GitHub :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-78&layout=compact)
