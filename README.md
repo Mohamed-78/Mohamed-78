@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GITHUB ! 👋
 
 ## 👨‍💻 Qui suis-je ?
-Je suis Irié Mohamed développeur Fullstack/Mobile j'ai 4 ans d'expérience.
+Je suis Irié Mohamed développeur Fullstack/Mobile j'ai 5 ans d'expérience.
 
 ## 🚀 Technologies utilisées :
 - **Backend :** Python, PHP, Django Rest Framework, Flask, Laravel
